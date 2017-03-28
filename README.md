@@ -1,10 +1,10 @@
-# Tabchi V4.3 Decompiled By [@To_My_Amigos](Https://T.Me/To_My_Amigos)
+# Tabchi V4.3 Edited By [@RezaMnk](Https://T.Me/RezaMnk)
 
 TG-CLI Based Broadcasting Bot.
 
 ## راهنمای نصب :
 
-git clone https://Github.com/kia-pashang/Tabchi.git
+git clone https://Github.com/RezaMnk/Tabchi.git
 
 cd Tabchi
 
@@ -20,7 +20,7 @@ cd Tabchi
 
 lua creator.lua
 
-بعد ایدی سودو ست کنید مثلا : 353581089
+بعد ایدی سودو ست کنید مثلا : 326546529
 
 screen ./tabchi-0.sh
 
@@ -34,7 +34,7 @@ lua manual-creator.lua
 
 ایدی تبچی ست کنید مثلا : 5
 
-بعدش ایدی سودو بدین مثلا : 353581089
+بعدش ایدی سودو بدین مثلا : 326546529
 
 screen ./tabchi-5.sh
 
@@ -51,3 +51,5 @@ killall bash
 ./anticrash.sh
 
 عمرا ربات اف بشه :)
+
+حالشو ببرید :D
