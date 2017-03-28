@@ -17,4 +17,4 @@ while true ; do
   done
   echo Bots Running!
   sleep 1800
-don
+done
